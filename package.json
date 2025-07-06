@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tanphanzero/nodejs/issues"
   },
-  "homepage": "https://github.com/tanphanzero/nodejs#readme"
+  "homepage": "https://github.com/tanphanzero/nodejs#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
