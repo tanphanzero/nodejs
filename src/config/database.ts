@@ -10,6 +10,8 @@ const getConnection = async() => {
       password: '123456',
       database: 'nodejspro',
     });
+
+    return connection;
 }
 
 export default getConnection;
